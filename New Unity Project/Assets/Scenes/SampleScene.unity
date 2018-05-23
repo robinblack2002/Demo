@@ -439,11 +439,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: d9cfefb23226bd44aac8225538c8dc91, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d9cfefb23226bd44aac8225538c8dc91, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.8
+      value: 8.67
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d9cfefb23226bd44aac8225538c8dc91, type: 3}
       propertyPath: m_LocalPosition.z
@@ -584,7 +584,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1567465545
+  randomSeed: -1615248258
   InitialModule:
     serializedVersion: 3
     enabled: 1
